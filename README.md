@@ -15,3 +15,6 @@ TSC Runner
 
 *Visual Studio*
 Built in for 2015 (plugin for earlier versions)
+
+Typescript 2.0 progress
+https://github.com/Microsoft/TypeScript/milestones
