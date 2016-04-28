@@ -16,5 +16,9 @@ TSC Runner
 *Visual Studio*
 Built in for 2015 (plugin for earlier versions)
 
+Compile options in visual Studio 
+http://www.typescriptlang.org/docs/handbook/compiler-options-in-msbuild.html
+
 Typescript 2.0 progress
 https://github.com/Microsoft/TypeScript/milestones
+
