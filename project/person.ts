@@ -1,0 +1,5 @@
+﻿class Person {
+    
+}
+
+external = Person;
